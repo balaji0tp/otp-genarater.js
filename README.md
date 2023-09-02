@@ -1,1 +1,1 @@
-# otp-genarater.js
+# OTP.js
